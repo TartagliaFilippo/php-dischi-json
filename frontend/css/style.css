@@ -8,3 +8,12 @@
 /* UTILS */
 
 /* STRUCTURE */
+#app .header {
+  height: 100px;
+  background-color: #06131f;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
